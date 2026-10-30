@@ -6,7 +6,7 @@
 
 **Frontend-focused full-stack engineer** in New Delhi. I build fast, secure web products, and lead the team that ships them.
 
-Nearly six years across fintech, payments, banking, BaaS, tax, travel and event management.
+Nearly six years across fintech, payments, payment pages, banking, BaaS, tax, travel and event management.
 
 ### 🗺️ Now
 
