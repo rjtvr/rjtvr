@@ -1,10 +1,10 @@
 <a href="https://rjtvr.github.io/">
-  <img src="https://rjtvr.github.io/assets/og-image.png" alt="Rajat Verma's pixel-art portfolio: Town Square quest board" width="100%">
+  <img src="assets/banner.svg" alt="Pixel-art town square at dusk with a blinking street lamp: Rajat Verma, frontend-focused full-stack engineer" width="100%">
 </a>
 
 ## 👋 Hi, I'm Rajat
 
-**Frontend-focused full-stack engineer** in New Delhi. I build fast, secure web products, and lead the team that ships them.
+Based in New Delhi. I build fast, secure web products, and lead the team that ships them.
 
 Nearly six years across fintech, payments, payment pages, banking, BaaS, tax, travel and event management.
 
