@@ -1,5 +1,5 @@
 <a href="https://rjtvr.github.io/">
-  <img src="assets/banner-hero.svg" alt="Rajat Verma, frontend-focused full-stack engineer, above a band of bold geometric shapes" width="100%">
+  <img src="assets/banner-hero-blocks.svg" alt="Rajat Verma, frontend-focused full-stack engineer, above a band of bold geometric shapes" width="100%">
 </a>
 
 ## 👋 Hi, I'm Rajat

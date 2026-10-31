@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 120" width="1280" height="120" role="img" aria-label="Rajat Verma, geometric block pattern banner" shape-rendering="crispEdges">
+<defs>
+<clipPath id="card"><rect width="1280" height="120" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+<!-- Panel 1: gray + green -->
+<g>
+<rect x="0" y="0" width="320" height="120" fill="#d9d9d9"/>
+<g fill="#08882e">
+<rect x="40" y="0" width="40" height="40"/>
+<rect x="160" y="0" width="40" height="40"/>
+<rect x="80" y="40" width="40" height="40"/>
+<rect x="200" y="40" width="40" height="40"/>
+<rect x="40" y="80" width="40" height="40"/>
+<rect x="160" y="80" width="40" height="40"/>
+</g>
+</g>
+<!-- Panel 2: lavender + indigo stair-steps -->
+<g transform="translate(320 0)">
+<rect width="320" height="120" fill="#ab87ff"/>
+<g fill="#5a3cf8">
+<rect x="128" y="0" width="128" height="30"/>
+<rect x="64" y="30" width="128" height="30"/>
+<rect x="0" y="60" width="128" height="30"/>
+<rect x="256" y="60" width="64" height="30"/>
+<rect x="0" y="90" width="64" height="30"/>
+<rect x="192" y="90" width="128" height="30"/>
+</g>
+</g>
+<!-- Panel 3: burnt orange + indigo dots -->
+<g transform="translate(640 0)">
+<rect width="320" height="120" fill="#c05200"/>
+<g fill="#5a3cf8">
+<rect x="80" y="12" width="32" height="32"/>
+<rect x="208" y="12" width="32" height="32"/>
+<rect x="16" y="76" width="32" height="32"/>
+<rect x="144" y="76" width="32" height="32"/>
+<rect x="272" y="76" width="32" height="32"/>
+</g>
+</g>
+<!-- Panel 4: pink + lavender diagonals -->
+<g transform="translate(960 0)">
+<rect width="320" height="120" fill="#f93a77"/>
+<g fill="#ab87ff">
+<rect x="120" y="0" width="40" height="40"/>
+<rect x="240" y="0" width="40" height="40"/>
+<rect x="80" y="40" width="40" height="40"/>
+<rect x="200" y="40" width="40" height="40"/>
+<rect x="40" y="80" width="40" height="40"/>
+<rect x="160" y="80" width="40" height="40"/>
+</g>
+</g>
+</g>
+</svg>
